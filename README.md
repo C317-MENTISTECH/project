@@ -222,11 +222,3 @@ Em alguns cenários as chamadas à API são interceptadas, então os testes não
 | `POST /email/send` | Envia e-mail de suporte |
 
 Há outras rotas de `/analytics` (média de estresse por usuário, time, cargo etc.). Consulte `/docs` para a lista completa.
-
-## Equipe
-
-Equipe **C317-MENTISTECH**.
-
-| Nome | GitHub |
-|---|---|
-| | |
