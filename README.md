@@ -16,7 +16,6 @@ Plataforma web de **acompanhamento de bem-estar emocional** para pessoas e equip
 - [Scripts úteis](#scripts-úteis)
 - [Testes](#testes)
 - [Principais rotas](#principais-rotas)
-- [Equipe](#equipe)
 
 ---
 
